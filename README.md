@@ -8,7 +8,7 @@ Two forecasts should be returned, in one Excel file, with two columns (one colum
 ## Language
 R language
 ## Tools
-In this Repository the used skills are:
+In this repository the used skills are:
 
 * Linear regression
 * Holt-Winters
